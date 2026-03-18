@@ -19,19 +19,19 @@
             <section>
                 Services section
             </section>
-            <section id="works">
+            <section>
                 Works section
             </section>
-            <section id="about">
+            <section>
                 About section
             </section>
-            <section id="latest_news">
+            <section>
                 Latest news section
             </section>
-            <section id="testimonials">
+            <section>
                 Testimonials section
             </section>
-            <section id="contact">
+            <section>
                 Contact section
             </section>
         </main>
